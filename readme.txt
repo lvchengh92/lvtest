@@ -6,3 +6,4 @@ Git tracks changes of files.
 
 
 Creating a new branch-bug-dev is quick.
+Creating a new branch--stash-dev is quick.
