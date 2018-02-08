@@ -5,4 +5,4 @@ Git tracks changes.
 Git tracks changes of files.
 
 
-Creating a new branch-dev is quick.
+Creating a new branch-bug-dev is quick.
